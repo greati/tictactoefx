@@ -1,0 +1,13 @@
+.button {
+	-fx-border-color:gray;
+	-fx-background-color:white;
+	-fx-padding:10;
+}
+
+.hbox{
+	-fx-padding:10;
+}
+
+.logo {
+	-fx-font-size:30px;
+}
